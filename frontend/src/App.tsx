@@ -12,7 +12,7 @@ function App() {
 
     return (
         <div>
-            Azureapp
+            Azureapp1
             <br/>
             From server: {response}
         </div>
