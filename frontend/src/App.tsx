@@ -12,7 +12,7 @@ function App() {
 
     return (
         <div>
-            Azureapp1
+            Spring react app
             <br/>
             From server: {response}
         </div>
